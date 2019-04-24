@@ -38,3 +38,9 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+https://www.google.com/search?q=how+to+add+progress+event+in+axios&oq=how+to+add+progress+event+in+axios&aqs=chrome..69i57.12179j0j4&sourceid=chrome&ie=UTF-8
+
+
+https://stackoverflow.com/questions/44936028/progress-bar-with-axios
